@@ -9,6 +9,4 @@ $apiKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
 // Replace with your Splynx API Secret
 $apiSecret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-
-$googleApiKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' ;  // For geocoding should openstreetmap nominatim fail.
 ?>
