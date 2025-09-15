@@ -1,9 +1,13 @@
 Collects internet traffic for customers over a given date range and dumps it to a csv file. 
 
 Optional Parameters:
+
   --end <date>      : Specifies the end date for the reporting period (e.g., --end 20/08/2025).
+  
   --start <date>    : Specifies the start date for the reporting period (e.g., --start 15/07/2025).
+  
                       When used with --end, this overrides the billing cycle logic.
+                      
   --silent          : Suppresses all progress and parameter output.
 
 
