@@ -25,3 +25,7 @@ Customers -> internet services -> view
 Customers -> traffic statistics -> view
 
 Customers -> traffic counter -> view
+
+
+CSV format is
+"Customer ID",Name,Login,Email,Status,"Internet Plan Name","Internet Plan Status","Service ID","Service Start Date","Service End Date",IPv4,Router,Street,Town,"Total Upload (GB)","Total Download (GB)","Calculated Stats Start Date","Calculated Stats End Date"
